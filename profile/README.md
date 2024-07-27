@@ -11,8 +11,3 @@ We welcome new contributors to our open source projects. The world is ours for t
 * Explore [Luau](https://github.com/luau-lang), [React Lua](https://github.com/Roblox/react-lua), or our other [open source projects](https://github.com/orgs/Roblox/repositories).
 * Work together and provide feedback [on our dev forum](https://devforum.roblox.com/).
 * [Join us!](https://careers.roblox.com/)
-
-### For Roblox Employees
-
-* [Getting set up on GitHub Cloud](http://go/ghc-access)
-* [Open Source at Roblox](http://go/opensource)
